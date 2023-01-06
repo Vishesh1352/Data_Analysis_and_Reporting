@@ -1,0 +1,4 @@
+[client]
+user='movie_data'
+password='moviepass'
+host='localhost'
